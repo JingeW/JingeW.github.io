@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-22
+date: 2023-2-28
 inline: true
 ---
 
-I gave a talk about our SIGGRAPH 2021 paper at the [GAMES Webinar](https://www.bilibili.com/video/BV1Aq4y1m7ZC) (in Chinese).
+My personal website is finally online :tada:
