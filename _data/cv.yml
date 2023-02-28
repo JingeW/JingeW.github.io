@@ -15,14 +15,14 @@
       institution: West Virginia University
       year: 2016 - 2023
       description:
-        - Advisor:  Prof. Xin Li and Prof. Shuo Wang
-        - Courses: Advanced Analysis-Algorithms, Pattern Recognition, Advanced Data Mining, Application of Neural Networks, Empirical Methods in SENG/CS, Advanced Networking Concepts
+        - Prof. Xin Li and Prof. Shuo Wang
+        - Advanced Analysis-Algorithms, Pattern Recognition, Advanced Data Mining, Application of Neural Networks, Empirical Methods in SENG/CS, Advanced Networking Concepts
 
     - title: Master
       institution: West Virginia University
       year: 2013 - 2015
       description:
-        - Courses: SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis.
+        - SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis.
 
 - title: Experience
   type: time_table
