@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Mechanical Engineering @ UCLA
+subtitle: Ph.D. Student in Computer Science @ West Virginia University
 
 profile:
   align: right
-  image: 
+  image:
   address:
 
 news: true  # includes a list of news items
@@ -16,12 +16,8 @@ social: false  # includes social icons at the bottom of the page
 ---
 #### About
 
-I am a Ph.D. student in mechanical engineering at **UCLA** advised by Prof. **[Joseph Teran](https://www.math.ucla.edu/~jteran/)**. Before entering graduate school, I received my Bachelor's degree in mechanical engineering from Rensselaer Polytechnic Institute in 2017.
+I am a Ph.D. student in computer science at **WVU** co-advised by Prof. **[Xin Li](https://xinli.faculty.wvu.edu/)** and Prof. **[Shuo Wang](https://sites.wustl.edu/wanglab/)**. I also obtained a master's degree in statistics from **WVU**.
 
-#### Research
-
-My research interests are in physics-based animations in computer graphics and computational mechanics, including various simulations of deformable solids, fluids, and thermomechanical effects.
-
-Outside of school, I interned at **Amazon** in 2022, where I worked on cloth simulations and differentiable physics engine. Earlier in 2021, I did an internship at **[X](https://x.company)**, where I worked on implementing a new model in **[Bullet](https://pybullet.org/wordpress/)** to accelerate the deformable object simulations.
+My primary areas of research focus on data analysis, signal processing, and computer vision. I have amassed a wealth of experience collaborating on interdisciplinary projects, which has honed my strengths in merging machine learning and statistical methods to explore research topics. My work primarily revolves around neuroscience-related subjects, allowing me to develop a keen sensitivity to the intricate interplay between computers and the human brain. In my research endeavors, I strive to ensure the interpretability of neural networks as computational models for the human brain. I believe this is a crucial factor in enhancing our understanding of the brain and its functionalities.
 
 ---
