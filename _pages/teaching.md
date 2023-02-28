@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /Experience/
-title: Experience
+permalink: /teaching/
+title: teaching
 description: A list of classes that I TA'ed or I'm teaching.
-nav: true
+nav: false
 nav_order: 5
 ---
 
-###### **Intern: HaoHan Technologies, LLC**   03/2016 – 02/2017, Clarksville, MD
-
+###### **LS-30A: Mathematics for Life Scientists**
+Fall 2022, UCLA
 
 
 ###### **LS-30B: Mathematics for Life Scientists**
