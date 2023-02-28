@@ -18,77 +18,72 @@
         - *Advisor:* : Prof. Xin Li and Prof. Shuo Wang
         - *Courses:* " Advanced Analysis-Algorithms, Pattern Recognition, Advanced Data Mining, Application of Neural Networks, Empirical Methods in SENG/CS, Advanced Networking Concepts
 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master
+      institution: West Virginia University
+      year: 2013 - 2015
       description:
-        - Description 1.
-        - Description 2.
+        - *Courses:* SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Intern
+      institution: HaoHan Technologies, LLC
+      year: 2016 – 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - *Keywords:* SAS, R, MS Access, SQL, Data Modeling, Regression, Explanatory Analysis.
+        - title: *Projects:*
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Transferred datasets among multiple platforms such as SAS, R, Excel, Access database, and SQL server.
+            - Generate statistics reports of services provided, expenditures, and mental health diseases for county health administration’s consideration.
+            - Using regression model to analyze key variables’ contribution in the service model, which included demographic variables, service types, disease categories, expenditures, providers, etc., providing suggestions of service improvement for county health administration.
+            - Responsible for quality control of several Phase I Clinical Trials for Sponsors’ FDA  submission.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Critical period analysis
+      year: 2022 - 2023
+      description:
+        - Collaborate with the school of medicine to discover the computational properties and mechanisms of critical periods for face recognition
 
-- title: Honors and Awards
+    - title: Face identity coding
+      year: 2021 - 2022
+      description:
+        - Collaborate with the school of medicine to provide a computational model for understanding the neural mechanisms underlying face recognition.
+
+    - title: Feature-based encoding of face identity
+      year: 2020 - 2021
+      description:
+        - Collaborate with the school of medicine to provide a computational model for a neuroscience study.
+
+    - title: Weeds detection
+      year: 2019 - 2020
+      description:
+        - Collaborate with the college of agriculture to develop an automatic tool for weeds detection.
+
+- title: Achievements
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - items: ECCV 2020 AIM: Advances in Image Manipulation workshop and challenges **Runner-Up Award**
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - items: SAS Certified Base Programmer for SAS 9
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - items: SAS Certified Advanced Programmer for SAS 9
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
