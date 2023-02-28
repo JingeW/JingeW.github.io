@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /Experience/
+title: Experience
 description: A list of classes that I TA'ed or I'm teaching.
 nav: true
 nav_order: 5
