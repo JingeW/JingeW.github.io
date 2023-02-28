@@ -1,15 +1,11 @@
-"Teran":
-  - firstname: ["Joseph"]
-    url: https://www.math.ucla.edu/~jteran/
+"Cao":
+  - firstname: ["Runnan"]
+    url: https://www.mir.wustl.edu/employees/runnan-cao/
 
-"Hyde":
-  - firstname: ["David A. B.", "David"]
-    url: https://dabh.io
+"Wang":
+  - firstname: ["Shuo"]
+    url: https://sites.wustl.edu/wanglab/
 
-"Kala":
-  - firstname: ["Victoria"]
-    url: https://victoriakala.com
-
-"Akar":
-  - firstname: ["Osman"]
-    url: https://www.math.ucla.edu/~oak/
+"Li":
+  - firstname: ["Xin"]
+    url: https://xinli.faculty.wvu.edu/
