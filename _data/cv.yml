@@ -15,23 +15,23 @@
       institution: West Virginia University
       year: 2016 - 2023
       description:
-        - *Advisor:* : Prof. Xin Li and Prof. Shuo Wang
-        - *Courses:* " Advanced Analysis-Algorithms, Pattern Recognition, Advanced Data Mining, Application of Neural Networks, Empirical Methods in SENG/CS, Advanced Networking Concepts
+        - Advisor:  Prof. Xin Li and Prof. Shuo Wang
+        - Courses: Advanced Analysis-Algorithms, Pattern Recognition, Advanced Data Mining, Application of Neural Networks, Empirical Methods in SENG/CS, Advanced Networking Concepts
 
     - title: Master
       institution: West Virginia University
       year: 2013 - 2015
       description:
-        - *Courses:* SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis.
+        - Courses: SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Intern 
+    - title: Intern
       institution: HaoHan Technologies, LLC
       year: 2016 – 2017
       description:
-        - *Keywords:* SAS, R, MS Access, SQL, Data Modeling, Regression, Explanatory Analysis.
+        - Keywords: SAS, R, MS Access, SQL, Data Modeling, Regression, Explanatory Analysis.
         - title: *Projects:*
           contents:
             - Transferred datasets among multiple platforms such as SAS, R, Excel, Access database, and SQL server.
