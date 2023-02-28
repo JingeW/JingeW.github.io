@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Jinge Wang
+      value: Albert Einstein
     - name: Date of Birth
-      value: 29th August 1990
+      value: 14th March 1879
     - name: Languages
-      value: English, Chinese
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: West Virginia University
-      year: 08/2016 - 05/2023
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -21,10 +21,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Master
-      institution: West Virginia University
-      year: 08/2013 - 05/2015
-        - Courses: SAS Programming, Statistical Methods, Data Analysis, Design of Experiments, Applied Regression Analysis, Categorical Data Analysis
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
