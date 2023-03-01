@@ -28,7 +28,6 @@
       institution: HaoHan Technologies, LLC
       year: 2016 – 2017
       description:
-        - SAS, R, MS Access, SQL, Data Modeling, Regression, Explanatory Analysis.
         - title: Involved in the project of analyzing County level public mental health Medicaid data.
           contents:
             - Transferred datasets among multiple platforms such as SAS, R, Excel, Access database, and SQL server.
@@ -42,25 +41,21 @@
     - title: Critical period analysis
       year: 2022 - 2023
       description:
-        - Face and facial landmarks detection, Foveation imaging, Grad-CAM, Knowledge distillation, Attention transfer, Statistical analysis.
         - Collaborate with the school of medicine to discover the computational properties and mechanisms of critical periods for face recognition.
 
     - title: Face identity coding
       year: 2021 - 2022
       description:
-        - ANOVA, SVM, GAN, network manipulation.
         - Collaborate with the school of medicine to provide a computational model for understanding the neural mechanisms underlying face recognition.
 
     - title: Feature-based encoding of face identity
       year: 2020 - 2021
       description:
-        - Face encoding, Feature extraction, VGG-Face, t-SNE.
         - Collaborate with the school of medicine to provide a computational model for a neuroscience study.
 
     - title: Weeds detection
       year: 2022 - 2023
       description:
-        - GUI, Image processing(k-means, mean-shift), Data collection(infrared/hyperspectral camera).
         - Collaborate with the college of agriculture to develop an automatic tool for weeds detection.
 
 - title: Achievements
