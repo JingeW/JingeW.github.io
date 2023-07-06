@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Computer Science @ West Virginia University
+subtitle: Computer Science Ph.D. @ West Virginia University
 
 profile:
   align: right
