@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Ph.D. @ West Virginia University
+subtitle: Ph.D. in <strong>Computer Science</strong>; Master in <strong>Statistics</strong>.
 
 profile:
   align: right
@@ -14,10 +14,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 ---
-#### About
+#### About Me
 
-I am a computer science Ph.D. graduated from **WVU**. I was co-advised by Prof. **[Xin Li](https://xinli.faculty.wvu.edu/)** and Prof. **[Shuo Wang](https://sites.wustl.edu/wanglab/)**. I also obtained a master's degree in statistics from **WVU**.
+I am a computer science Ph.D. graduate from West Virginia University, where I was co-advised by Dr. **[Xin Li](https://xinli.faculty.wvu.edu/)** and Dr. **[Shuo Wang](https://sites.wustl.edu/wanglab/)**. Additionally, I hold a master's degree in statistics from WVU. My research expertise lies in the areas of data analysis, machine learning, signal processing, and computer vision.
 
-My primary areas of research focus on data analysis, signal processing, and computer vision. I have amassed a wealth of experience collaborating on interdisciplinary projects, which has honed my strengths in merging machine learning and statistical methods to explore research topics. My work primarily revolves around neuroscience-related subjects, allowing me to develop a keen sensitivity to the intricate interplay between computers and the human brain. In my research endeavors, I strive to ensure the interpretability of neural networks as computational models for the human brain. I believe this is a crucial factor in enhancing our understanding of the brain and its functionalities.
+Currently, I am a postdoctoral fellow in Dr. **[Gangqing Hu](https://openwetware.org/wiki/Hu)**'s Laboratory, where my research is directed towards the integration of artificial intelligence and bioinformatics.
+
+Throughout my academic journey, I have gained extensive experience in interdisciplinary collaborations, where I have successfully integrated machine learning and statistical methods to address complex research questions.
 
 ---

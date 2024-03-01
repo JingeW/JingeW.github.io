@@ -22,6 +22,26 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: West Virginia University
+      year: 2023 – present
+      description:
+        - title: Integration of artificial intelligence and bioinformatics.
+          contents:
+            - Explore the potential applications of advanced Large Language Models in bioinformatics research.
+            - Assess the functionality of AI tools within the research framework.
+            - Develop metrics and establish benchmarks for related research tasks.
+
+    - title: Reseach Asistant
+      institution: West Virginia University
+      year: 2017 – 2023
+      description:
+        - title: Research in Data Science, Machine Learning, Signal Processing and Computer Vision.
+          contents:
+            - Conduct data analysis, including collection and cleansing of datasets.
+            - Investigate and implement cutting-edge machine learning algorithms and network architectures.
+            - Employ computational tools to address interdisciplinary challenges.
+
     - title: Intern
       institution: HaoHan Technologies, LLC
       year: 2016 – 2017
@@ -36,6 +56,11 @@
 - title: Projects
   type: time_table
   contents:
+    - title: Scientific Figures Interpreted by ChatGPT
+      year: 2023 - 2024
+      description:
+        -  Discovery the potential of ChatGPT in bioinformatics reseach.
+
     - title: Critical period analysis
       year: 2022 - 2023
       description:
