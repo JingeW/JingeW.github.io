@@ -4,7 +4,7 @@
     - name: Full Name
       value: Jinge Wang
     - name: Languages
-      value: English, Chinese
+      value: English, Mandarin
 
 - title: Education
   type: time_table
@@ -22,7 +22,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Fellow
+    - title: Post Doctoral Fellow
       institution: West Virginia University
       year: 2023 – present
       description:
@@ -32,19 +32,9 @@
             - Assess the functionality of AI tools within the research framework.
             - Develop metrics and establish benchmarks for related research tasks.
 
-    - title: Reseach Asistant
-      institution: West Virginia University
-      year: 2017 – 2023
-      description:
-        - title: Research in Data Science, Machine Learning, Signal Processing and Computer Vision.
-          contents:
-            - Conduct data analysis, including collection and cleansing of datasets.
-            - Investigate and implement cutting-edge machine learning algorithms and network architectures.
-            - Employ computational tools to address interdisciplinary challenges.
-
-    - title: Intern
+    - title: Data Analyst Internship
       institution: HaoHan Technologies, LLC
-      year: 2016 – 2017
+      year: 2023 – 2023
       description:
         - title: Involved in the project of analyzing County level public mental health Medicaid data.
           contents:
@@ -52,6 +42,16 @@
             - Generate statistics reports of services provided, expenditures, and mental health diseases for county health administration’s consideration.
             - Using regression model to analyze key variables’ contribution in the service model, which included demographic variables, service types, disease categories, expenditures, providers, etc., providing suggestions of service improvement for county health administration.
             - Responsible for quality control of several Phase I Clinical Trials for Sponsors’ FDA  submission.
+
+    - title: Graduate Research Assistant
+      institution: West Virginia University
+      year: 2018 – 2023
+      description:
+        - title: Research in Data Science, Machine Learning, Signal Processing and Computer Vision.
+          contents:
+            - Conduct data analysis, including collection and cleansing of datasets.
+            - Investigate and implement cutting-edge machine learning algorithms and network architectures.
+            - Employ computational tools to address interdisciplinary challenges.
 
 - title: Projects
   type: time_table
