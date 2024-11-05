@@ -3803,7 +3803,6 @@ input, select, textarea {
 				width: 22em;
 				overflow: hidden;
 				-ms-flex: 1;
-				flex: 1;
 			}
 
 				.wrapper.spotlight .image img {
@@ -3814,7 +3813,6 @@ input, select, textarea {
 			.wrapper.spotlight .content {
 				width: 100%;
 				-ms-flex: 2;
-				flex: 1;
 			}
 
 			.wrapper.spotlight:nth-child(2n - 1) .inner {
