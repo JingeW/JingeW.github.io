@@ -6,9 +6,78 @@
 -->
 <html>
 	<head>
-		<title>Jinge's Homepage</title>
+		<title>Jinge Wang - Data Scientist & AI Researcher | Computer Science Ph.D.</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		<!-- SEO Meta Tags -->
+		<meta name="description" content="Jinge Wang - Data Scientist at Polygon Health Analytics. Computer Science Ph.D. graduate specializing in AI, biomedical informatics, and healthcare analytics. Expert in machine learning, computer vision, and real-world AI applications." />
+		<meta name="keywords" content="Jinge Wang, Data Scientist, AI Researcher, Computer Science, Biomedical Informatics, Healthcare Analytics, Machine Learning, Computer Vision, Polygon Health Analytics, West Virginia University" />
+		<meta name="author" content="Jinge Wang" />
+		<meta name="robots" content="index, follow" />
+		
+		<!-- Open Graph Tags for Social Media -->
+		<meta property="og:title" content="Jinge Wang - Data Scientist & AI Researcher" />
+		<meta property="og:description" content="Computer Science Ph.D. graduate specializing in AI, biomedical informatics, and healthcare analytics at Polygon Health Analytics." />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://jingew.github.io" />
+		<meta property="og:image" content="https://jingew.github.io/images/index-Avatar-JW.jpg" />
+		<meta property="og:site_name" content="Jinge Wang's Homepage" />
+		
+		<!-- Twitter Card Tags -->
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Jinge Wang - Data Scientist & AI Researcher" />
+		<meta name="twitter:description" content="Computer Science Ph.D. graduate specializing in AI, biomedical informatics, and healthcare analytics." />
+		<meta name="twitter:image" content="https://jingew.github.io/images/index-Avatar-JW.jpg" />
+		
+		<!-- Canonical URL -->
+		<link rel="canonical" href="https://jingew.github.io" />
+		
+		<!-- Google Analytics (Optional - Replace GA_MEASUREMENT_ID with your actual ID) -->
+		<!--
+		<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'GA_MEASUREMENT_ID');
+		</script>
+		-->
+		
+		<!-- Structured Data (JSON-LD) -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Person",
+			"name": "Jinge Wang",
+			"jobTitle": "Data Scientist",
+			"worksFor": {
+				"@type": "Organization",
+				"name": "Polygon Health Analytics"
+			},
+			"alumniOf": {
+				"@type": "EducationalOrganization",
+				"name": "West Virginia University"
+			},
+			"description": "Computer Science Ph.D. graduate specializing in AI, biomedical informatics, and healthcare analytics",
+			"url": "https://jingew.github.io",
+			"sameAs": [
+				"https://github.com/JingeW",
+				"https://www.linkedin.com/in/jingew",
+				"https://scholar.google.com/citations?user=T9Kp3LcAAAAJ"
+			],
+			"knowsAbout": [
+				"Artificial Intelligence",
+				"Machine Learning",
+				"Computer Vision",
+				"Biomedical Informatics",
+				"Healthcare Analytics",
+				"Data Science"
+			],
+			"image": "https://jingew.github.io/images/index-Avatar-JW.jpg"
+		}
+		</script>
+		
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<link rel="icon" href="images/fav.png" type="image/x-icon">
@@ -60,7 +129,7 @@
 								<i class="icon solid fa-envelope" style="font-size: 24px;"></i>
 							</a> -->
 						</h2>
-						<blockquote>Build Up Logic from Zero Information</blockquote>
+						<blockquote>Developing Logic from Zero Information</blockquote>
 					</div>
 				</section>
 
@@ -131,7 +200,8 @@
 								</ul>
 							</form>
 							<ul class="copyright">
-								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Images: <a href="https://www.pexels.com/">Pexels</a></li>
+								<li>&copy; 2024 Jinge Wang. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Images: <a href="https://www.pexels.com/">Pexels</a></li>
+								<li style="font-size: 11px; opacity: 0.5;"><i class="icon solid fa-chart-line" style="margin-right: 3px;"></i>Page visits: <span id="footerViewCount">-</span></li>
 							</ul>
 						</div>
 					</section>
@@ -145,6 +215,28 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			
+			<!-- View Counter Script -->
+			<script>
+				// Elegant view counter using localStorage
+				(function() {
+					// Get current view count from localStorage
+					let viewCount = localStorage.getItem('pageViews') || 0;
+					
+					// Increment view count
+					viewCount = parseInt(viewCount) + 1;
+					
+					// Store updated count
+					localStorage.setItem('pageViews', viewCount);
+					
+					// Format the number with commas
+					const formattedCount = viewCount.toLocaleString();
+					
+					// Update footer counter
+					const footerCounter = document.getElementById('footerViewCount');
+					if (footerCounter) footerCounter.textContent = formattedCount;
+				})();
+			</script>
 
 	</body>
 </html>
